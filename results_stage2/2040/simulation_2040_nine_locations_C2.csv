@@ -1,0 +1,2 @@
+total_incidents,requested_cars,dispatched_cars,dispatch_time_first,response_time_first,driving_time_first,dispatch_time_all,response_time_all,cars_missing,cars_location_responsible,incidents_unfulfilled,total_incidents_fulfilled,cars_total_dispatched,exchange_ratio,ratio_cars_undispatched,weekhour,at_location,to_incident,at_incident,to_location,at_backlog,at_patrol
+50000.0,1.3415,1.33318,2.05954,11.64586,9.58632,4.8858,15.29766,0.00832,0.96414,0.0,50000.0,66659.0,0.27681,0.00624,84.5,13.99836,4.46859,14.95248,4.47199,11.79761,0.0
